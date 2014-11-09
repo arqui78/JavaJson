@@ -1,2 +1,0 @@
-1. Se debe alojar el archio geJson.php en el servido web
-2. Suministrar los datos referente a su conexión de DB.

@@ -1,0 +1,2 @@
+1. Se debe alojar el archio getJson.php en el servido web
+2. Suministrar los datos referente a su conexión de DB.
