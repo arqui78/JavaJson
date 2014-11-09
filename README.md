@@ -11,6 +11,6 @@ Creamos una clase que hara peticiones a nuestro servidor web, obteniento un json
 
 En PHP
 El el servidor web alojamos un archivo php, el cual instanciomos una conexion a nuestra DB local,
-luego de generar la consulta slq retornamos la informacion en un formato json.
+luego de generar la consulta sql retornamos la informacion en un formato json.
 
 Espero sea de utilidad.
