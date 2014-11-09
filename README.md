@@ -13,4 +13,4 @@ En PHP
 El el servidor web alojamos un archivo php, el cual instanciomos una conexion a nuestra DB local,
 luego de generar la consulta slq retornamos la informacion en un formato json.
 
-Espero se de utilidad.
+Espero sea de utilidad.
