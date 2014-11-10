@@ -4,7 +4,6 @@ import java.net.Socket;
 import java.sql.ResultSet;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
-import oracle.jrockit.jfr.settings.JSONElement;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
